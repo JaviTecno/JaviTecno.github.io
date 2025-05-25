@@ -7,10 +7,22 @@ li {
   background-color: greenyellow;
   border: 1px solid black;
   margin-bottom: 5px;
+  font-size: 18pt;
 }
 .lista {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     font-weight: 300;
+    font-size: 24pt;
     color-scheme: green;
     background-color: coral ;
+}
+.caja {
+    width: 200px;
+    min-height: 200px;
+   
+    /*background-color: aquamarine;*/ 
+    border: 15px, rgb(139, 0, 35);
+    padding: auto;
+    text-align: left;
+    text-shadow: 0svb;
 }
